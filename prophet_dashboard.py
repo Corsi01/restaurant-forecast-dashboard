@@ -60,7 +60,13 @@ def load_model(model_path, metadata_path):
         if isinstance(model_json, dict):
             model_json = json.dumps(model_json)
         
+        # Import with explicit backend handling
+        import prophet
         model = model_from_json(model_json)
+        
+        # Ensure stan_backend is set (fix for version mismatch)
+        if not hasattr(model, 'stan_backend'):
+            model.stan_backend = None
         
         # Load metadata
         with open(metadata_path, 'r') as f:
@@ -69,6 +75,8 @@ def load_model(model_path, metadata_path):
         return model, metadata
     except Exception as e:
         st.error(f"Error loading model or metadata: {str(e)}")
+        import traceback
+        st.error(traceback.format_exc())
         return None, None
 
 # Function to make forecast
