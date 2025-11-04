@@ -1,0 +1,97 @@
+weekly,monthly,yearly,weekly_prepost,holidays,covid_regressors,RMSE_last,MAE_last,RMSE_cv_mean,MAE_cv_mean
+True,False,False,True,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",90.49137890425648,75.42892744492329,114.3824168220763,86.30870582913951
+False,False,False,True,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",90.49137890425648,75.42892744492329,114.3824168220763,86.30870582913951
+True,True,False,False,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",92.20951883122879,78.68834406034024,114.62476637421797,85.10824256393248
+True,False,False,False,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",90.41671736260767,75.11821489880407,114.94880163340714,84.38347786712951
+False,False,False,True,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",90.71074123611439,75.59834624180188,115.05576609638952,85.15706499365857
+True,False,False,True,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",90.71074123611439,75.59834624180188,115.05576609638952,85.15706499365857
+True,True,False,False,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",93.92118098663019,81.18853612614724,115.18000529379528,87.22644708460128
+False,True,False,True,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",90.2565597317919,76.94211638388074,115.89027273160232,86.64679918072123
+True,True,False,True,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",90.2565597317919,76.94211638388074,115.89027273160232,86.64679918072123
+False,True,False,True,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",90.56023663301822,77.18705683205327,116.51509460316585,88.06465028680174
+True,True,False,True,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",90.56023663301822,77.18705683205327,116.51509460316585,88.06465028680174
+True,False,False,False,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",91.03879952640641,75.92418838375873,116.66797681043502,86.45555784856133
+True,True,False,False,True,,90.51455820951261,78.67589279199738,121.20579159997808,84.57497363614247
+True,False,False,False,True,,90.38405247618111,76.93579687914429,121.87309801362002,86.15260924051304
+True,False,False,True,True,,90.2968576990847,76.19831979472764,122.39063215223541,86.09365021714228
+False,False,False,True,True,,90.2968576990847,76.19831979472764,122.39063215223541,86.09365021714228
+False,False,False,False,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",113.60501386555491,93.97888436452665,126.24056111067885,98.367296401409
+False,True,False,True,True,,89.39799111914347,77.75311216512773,126.35217762486293,89.91103756829735
+True,True,False,True,True,,89.39799111914347,77.75311216512773,126.35217762486293,89.91103756829735
+False,False,False,False,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",115.00602161184509,95.0928879760743,127.96978159506203,100.57780471490494
+False,True,False,False,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",114.20838480699472,94.98044359041855,128.00479406171357,100.25467038986002
+False,True,False,False,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",113.6855018551951,94.35253026472273,128.4438561167884,101.59810808246803
+False,False,False,False,True,,112.23723975078202,93.4561087261143,129.08901816276037,97.84794768164463
+True,False,True,False,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",108.23942439161223,87.1003160638502,132.61016702452258,103.95478061005637
+True,True,True,True,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",109.74587898558406,87.81632484971306,132.9693621588903,103.77687877898384
+False,True,True,True,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",109.74587898558406,87.81632484971306,132.9693621588903,103.77687877898384
+False,True,False,False,True,,111.84233801696644,93.82868811180812,133.1850005422548,100.2247645441943
+True,False,True,False,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",110.63440227730106,89.69244600068377,133.9024049925628,105.35302696299263
+True,False,False,False,False,,158.7563318622504,94.27428315207365,134.59410129551608,86.45118009159854
+True,True,True,False,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",106.27243024685474,83.7036976743653,134.70555921272154,105.69559720588353
+True,False,True,True,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",111.44604609943518,91.04010228232212,135.92500477805226,106.7250286362757
+False,False,True,True,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",111.44604609943518,91.04010228232212,135.92500477805226,106.7250286362757
+True,False,False,False,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",160.4900279602248,96.74813663502623,136.13075640840924,91.72567485442971
+False,True,True,True,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",105.99082945575026,83.59245392125614,136.15076967650757,106.05781749484827
+True,True,True,True,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",105.99082945575026,83.59245392125614,136.15076967650757,106.05781749484827
+True,False,False,False,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",160.30125457383141,96.4637446879927,136.54446178438792,93.34572544549188
+False,True,True,True,True,,109.5904095392527,89.12548783140807,136.6677277756057,107.94169705226646
+True,True,True,True,True,,109.5904095392527,89.12548783140807,136.6677277756057,107.94169705226646
+True,False,False,True,False,,156.51822639788125,92.28373832084716,136.796321983504,88.20896023605037
+False,False,False,True,False,,156.51822639788125,92.28373832084716,136.796321983504,88.20896023605037
+True,True,False,False,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",159.75838919454617,97.84405847439636,136.96861553787394,93.29528323730412
+True,False,False,True,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",158.9179922126043,95.30792534960555,137.0206637793963,92.89060647827097
+False,False,False,True,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",158.9179922126043,95.30792534960555,137.0206637793963,92.89060647827097
+True,True,False,True,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",156.6786284675708,93.91358379776888,137.05728146053846,94.71039956159558
+False,True,False,True,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",156.6786284675708,93.91358379776888,137.05728146053846,94.71039956159558
+True,False,False,True,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",158.1085800860131,94.26791884733105,137.45374580229802,94.66495598125412
+False,False,False,True,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",158.1085800860131,94.26791884733105,137.45374580229802,94.66495598125412
+True,True,False,True,False,,155.63833459269907,92.62202640445501,137.7457023297113,88.87570442129515
+False,True,False,True,False,,155.63833459269907,92.62202640445501,137.7457023297113,88.87570442129515
+True,True,False,False,False,,158.41255130631342,95.7438606874333,137.75150376315028,88.55525104514913
+True,False,True,True,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",107.3497953159762,86.60991588871242,137.75790137311336,108.17183601353229
+False,False,True,True,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",107.3497953159762,86.60991588871242,137.75790137311336,108.17183601353229
+True,True,True,False,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",111.36014924187258,89.35656710988425,138.61570258521667,108.69433305724328
+False,True,False,True,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",158.7236891592366,96.95645675741416,139.0972812082635,95.9081200644159
+True,True,False,True,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",158.7236891592366,96.95645675741416,139.0972812082635,95.9081200644159
+False,False,True,True,True,,111.73493710784305,91.73723717763131,139.35981955335652,110.20054164954695
+True,False,True,True,True,,111.73493710784305,91.73723717763131,139.35981955335652,110.20054164954695
+True,True,False,False,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",159.96975090176298,98.07042332888402,139.94558025191768,97.15696599833697
+True,True,True,False,True,,117.95559680362864,98.254270164283,140.03343415265542,110.36641093090688
+True,False,True,False,True,,116.50357280111484,96.56875656365933,140.13816400976182,110.18201922892705
+False,True,True,False,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",129.2117033185624,103.9422536504842,146.7045464811304,117.63510824766136
+False,False,True,False,True,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",128.60642925525144,102.66829539550159,147.25666522078683,118.33138876286046
+False,True,True,False,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",128.14306531496237,102.94687399834713,147.8375383155309,118.59580181850012
+False,False,True,False,True,,135.56778601948096,109.74700930141815,147.84666278920145,119.14508109189833
+False,True,True,False,True,,136.28031712374954,111.0636234690773,148.0663187481117,119.42523828175482
+False,True,False,False,False,,181.24507402824608,115.5272853041977,148.18884438783888,102.4169210436395
+False,False,True,False,True,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",126.3964425710894,100.48355121490525,148.2578159537082,118.73499520729494
+False,False,False,False,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",183.3334845803347,117.04191168817145,150.16583791535479,107.64883223317277
+False,True,False,False,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",183.63716099873147,117.82635272625222,150.25960462651312,108.34087152083963
+False,False,False,False,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",184.54330781959425,118.29712717311989,150.497452416837,107.06275362354135
+False,False,False,False,False,,181.03893126136407,114.73080119136272,150.8812889512695,104.50561159235457
+False,True,False,False,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",182.49153396610413,116.55656308716331,150.8826918098635,109.21937644426106
+True,True,True,False,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",163.96951556992568,119.30153625390639,151.69140044763589,115.25275509157146
+True,False,True,False,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",165.40788683356624,121.25340951054987,152.08750888349525,115.29400759218416
+True,True,True,False,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",165.62940572554123,122.25356410047735,152.4185621159324,115.91372800328998
+False,True,True,True,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",163.61800801390822,120.99872729132886,152.62643345472475,115.71557441834494
+True,True,True,True,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",163.61800801390822,120.99872729132886,152.62643345472475,115.71557441834494
+True,False,True,False,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",164.7225491782082,119.93468504572208,152.84886015640134,115.91161234056356
+False,False,True,True,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",165.4633460677874,123.26015015640355,153.06388672378048,115.88517072852723
+True,False,True,True,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",165.4633460677874,123.26015015640355,153.06388672378048,115.88517072852723
+False,True,True,True,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",161.04102215520209,116.48711620482362,153.171417012506,116.15569528883499
+True,True,True,True,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",161.04102215520209,116.48711620482362,153.171417012506,116.15569528883499
+True,True,True,False,False,,171.45391737849624,132.44030970181282,153.65167781298678,117.29324369228966
+False,False,True,True,False,,171.00034738039508,131.90015252339256,154.07470839688224,116.87706834187385
+True,False,True,True,False,,171.00034738039508,131.90015252339256,154.07470839688224,116.87706834187385
+False,False,True,True,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",164.9870341476289,122.53897385394815,154.1072038427574,116.91727642823871
+True,False,True,True,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",164.9870341476289,122.53897385394815,154.1072038427574,116.91727642823871
+False,True,True,True,False,,168.46746242943055,129.66379982515926,154.30908044336104,117.21557531520456
+True,True,True,True,False,,168.46746242943055,129.66379982515926,154.30908044336104,117.21557531520456
+True,False,True,False,False,,177.30881505176026,139.71303435480965,154.39352283498658,117.56311006436823
+False,False,True,False,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",182.88720326721523,130.24692435294165,163.0001472271648,125.15994290139334
+False,True,True,False,False,"['dummy_emilia_full_open', 'dummy_emilia_restricted_open', 'dummy_emilia_takeaway_only']",181.30958794317687,129.17918690467684,163.20088468130666,125.61484980607183
+False,False,True,False,False,,191.8429418917319,143.9190386257645,163.89134432520316,125.86880727348004
+False,False,True,False,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",182.7970012243038,130.09130879437836,164.41859291021677,126.14534068205255
+False,True,True,False,False,,187.9166917770844,139.8241650548595,164.88642286687818,126.8283779778587
+False,True,True,False,False,"['dummy_lombardia_full_open', 'dummy_lombardia_restricted_open', 'dummy_lombardia_takeaway_only']",182.34286158508309,130.86989361750383,166.19122953111355,128.09550865253803

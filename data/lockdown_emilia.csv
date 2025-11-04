@@ -1,0 +1,488 @@
+Data,Zona/Fase,Consumazione al tavolo,Asporto,Delivery,Nota sintetica
+01/03/2020,Pre-lockdown,Consentito (orari normali),Consentito (orari normali),Consentito (nessun limite),Apertura regolare pre-COVID
+02/03/2020,Pre-lockdown,Consentito (orari normali),Consentito (orari normali),Consentito (nessun limite),Apertura regolare pre-COVID
+03/03/2020,Pre-lockdown,Consentito (orari normali),Consentito (orari normali),Consentito (nessun limite),Apertura regolare pre-COVID
+04/03/2020,Pre-lockdown,Consentito (orari normali),Consentito (orari normali),Consentito (nessun limite),Apertura regolare pre-COVID
+05/03/2020,Pre-lockdown,Consentito (orari normali),Consentito (orari normali),Consentito (nessun limite),Apertura regolare pre-COVID
+06/03/2020,Pre-lockdown,Consentito (orari normali),Consentito (orari normali),Consentito (nessun limite),Apertura regolare pre-COVID
+07/03/2020,Pre-lockdown,Consentito (orari normali),Consentito (orari normali),Consentito (nessun limite),Apertura regolare pre-COVID
+08/03/2020,Italia zona protetta,Consentito fino alle 18,Vietato,Vietato/non specificato,"Aperti 6–18 con distanziamento, poi chiusi"
+09/03/2020,Italia zona protetta,Consentito fino alle 18,Vietato,Vietato/non specificato,"Aperti 6–18 con distanziamento, poi chiusi"
+10/03/2020,Italia zona protetta,Consentito fino alle 18,Vietato,Vietato/non specificato,"Aperti 6–18 con distanziamento, poi chiusi"
+11/03/2020,Italia zona protetta,Consentito fino alle 18,Vietato,Vietato/non specificato,"Aperti 6–18 con distanziamento, poi chiusi"
+12/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+13/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+14/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+15/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+16/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+17/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+18/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+19/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+20/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+21/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+22/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+23/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+24/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+25/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+26/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+27/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+28/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+29/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+30/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+31/03/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+01/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+02/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+03/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+04/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+05/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+06/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+07/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+08/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+09/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+10/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+11/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+12/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+13/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+14/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+15/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+16/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+17/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+18/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+19/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+20/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+21/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+22/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+23/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+24/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+25/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+26/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+27/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+28/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+29/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+30/04/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+01/05/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+02/05/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+03/05/2020,Lockdown nazionale,Vietato,Vietato,Consentito (senza limiti di orario),"Chiusura totale, solo delivery consentito"
+04/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+05/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+06/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+07/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+08/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+09/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+10/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+11/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+12/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+13/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+14/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+15/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+16/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+17/05/2020,Fase 2 (no colori),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Solo asporto e delivery, vietata consumazione sul posto"
+18/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+19/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+20/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+21/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+22/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+23/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+24/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+25/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+26/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+27/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+28/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+29/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+30/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+31/05/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+01/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+02/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+03/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+04/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+05/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+06/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+07/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+08/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+09/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+10/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+11/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+12/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+13/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+14/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+15/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+16/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+17/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+18/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+19/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+20/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+21/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+22/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+23/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+24/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+25/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+26/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+27/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+28/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+29/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+30/06/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+01/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+02/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+03/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+04/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+05/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+06/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+07/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+08/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+09/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+10/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+11/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+12/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+13/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+14/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+15/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+16/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+17/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+18/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+19/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+20/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+21/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+22/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+23/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+24/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+25/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+26/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+27/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+28/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+29/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+30/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+31/07/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+01/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+02/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+03/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+04/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+05/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+06/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+07/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+08/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+09/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+10/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+11/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+12/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+13/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+14/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+15/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+16/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+17/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+18/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+19/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+20/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+21/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+22/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+23/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+24/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+25/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+26/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+27/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+28/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+29/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+30/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+31/08/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+01/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+02/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+03/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+04/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+05/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+06/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+07/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+08/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+09/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+10/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+11/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+12/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+13/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+14/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+15/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+16/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+17/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+18/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+19/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+20/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+21/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+22/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+23/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+24/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+25/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+26/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+27/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+28/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+29/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+30/09/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+01/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+02/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+03/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+04/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+05/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+06/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+07/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+08/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+09/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+10/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+11/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+12/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+13/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+14/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+15/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+16/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+17/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+18/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+19/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+20/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+21/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+22/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+23/10/2020,Riapertura controllata,Consentito (orari normali con protocolli),Consentito,Consentito,Servizio al tavolo con protocolli di sicurezza
+24/10/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+25/10/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+26/10/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+27/10/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+28/10/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+29/10/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+30/10/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+31/10/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+01/11/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+02/11/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+03/11/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+04/11/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+05/11/2020,Misure nazionali (pre-colori),Consentito fino alle 18,Consentito (fino alle 24),Consentito (senza limiti),"Ristoranti aperti fino alle 18, dopo solo asporto/delivery"
+06/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+07/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+08/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+09/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+10/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+11/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+12/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+13/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+14/11/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+15/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+16/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+17/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+18/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+19/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+20/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+21/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+22/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+23/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+24/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+25/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+26/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+27/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+28/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+29/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+30/11/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+01/12/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+02/12/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+03/12/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+04/12/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+05/12/2020,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+06/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+07/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+08/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+09/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+10/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+11/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+12/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+13/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+14/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+15/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+16/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+17/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+18/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+19/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+20/12/2020,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+21/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+22/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+23/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+24/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+25/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+26/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+27/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+28/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+29/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+30/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+31/12/2020,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+01/01/2021,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+02/01/2021,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+03/01/2021,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+04/01/2021,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+05/01/2021,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+06/01/2021,Festività nazionali (rosse/arancioni),Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Giorni festivi natalizi, solo asporto/delivery"
+07/01/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti fino alle 18
+08/01/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti fino alle 18
+09/01/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti fino alle 18
+10/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+11/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+12/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+13/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+14/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+15/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+16/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+17/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+18/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+19/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+20/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+21/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+22/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+23/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+24/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+25/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+26/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+27/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+28/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+29/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+30/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+31/01/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+01/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+02/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+03/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+04/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+05/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+06/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+07/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+08/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+09/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+10/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+11/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+12/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+13/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+14/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+15/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+16/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+17/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+18/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+19/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+20/02/2021,Zona gialla,Consentito fino alle 18,Consentito (fino alle 22),Consentito (senza limiti),Aperti a pranzo fino alle 18
+21/02/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+22/02/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+23/02/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+24/02/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+25/02/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+26/02/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+27/02/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+28/02/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+01/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+02/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+03/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+04/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+05/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+06/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+07/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+08/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+09/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+10/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+11/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+12/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+13/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+14/03/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+15/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+16/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+17/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+18/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+19/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+20/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+21/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+22/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+23/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+24/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+25/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+26/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+27/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+28/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+29/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+30/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+31/03/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+01/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+02/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+03/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+04/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+05/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+06/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+07/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+08/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+09/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+10/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+11/04/2021,Zona rossa,Vietato,Consentito (fino alle 22),Consentito (senza limiti),"Chiusura totale, solo asporto/delivery"
+12/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+13/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+14/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+15/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+16/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+17/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+18/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+19/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+20/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+21/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+22/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+23/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+24/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+25/04/2021,Zona arancione,Vietato,Consentito (fino alle 22),Consentito (senza limiti),Solo asporto e delivery
+26/04/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+27/04/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+28/04/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+29/04/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+30/04/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+01/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+02/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+03/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+04/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+05/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+06/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+07/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+08/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+09/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+10/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+11/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+12/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+13/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+14/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+15/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+16/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+17/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+18/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+19/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+20/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+21/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+22/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+23/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+24/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+25/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+26/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+27/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+28/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+29/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+30/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+31/05/2021,Zona gialla,"Consentito (solo all’aperto, fino alle 22)",Consentito (fino alle 22),Consentito (senza limiti),Riapertura parziale all’aperto
+01/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+02/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+03/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+04/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+05/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+06/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+07/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+08/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+09/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+10/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+11/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+12/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+13/06/2021,Zona gialla,Consentito anche al chiuso (fino alle 23-24),Consentito (fino alle 23-24),Consentito (senza limiti),Riapertura anche al chiuso con coprifuoco esteso
+14/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+15/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+16/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+17/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+18/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+19/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+20/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+21/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+22/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+23/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+24/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+25/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+26/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+27/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+28/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+29/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"
+30/06/2021,Zona bianca,Consentito (nessun limite),Consentito (nessun limite),Consentito (nessun limite),"Nessuna restrizione, solo norme igieniche di base"

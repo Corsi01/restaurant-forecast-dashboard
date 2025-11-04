@@ -1,0 +1,8 @@
+{
+    "weekly": true,
+    "monthly": false,
+    "yearly": false,
+    "weekly_prepost": false,
+    "holidays": true,
+    "regressors": null
+}

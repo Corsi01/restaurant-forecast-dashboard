@@ -1,0 +1,12 @@
+{
+    "weekly": true,
+    "monthly": false,
+    "yearly": false,
+    "weekly_prepost": false,
+    "holidays": true,
+    "regressors": [
+        "dummy_emilia_full_open",
+        "dummy_emilia_restricted_open",
+        "dummy_emilia_takeaway_only"
+    ]
+}
