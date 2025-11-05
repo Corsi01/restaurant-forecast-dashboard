@@ -21,7 +21,7 @@ The models were deployed in an **interactive Streamlit dashboard** that allows u
 
 ## Live Demo
 
-**View the deployed dashboard:** https://restaurant-forecast-dashboard.streamlit.app/
+View the deployed dashboard: https://restaurant-forecast-dashboard.streamlit.app/
 ---
 
 ## Run Locally
@@ -36,17 +36,6 @@ streamlit run prophet_dashboard.py
 ```
 
 The dashboard will open automatically at `http://localhost:8501`
-
----
-
-## Tech Stack
-
-- **Prophet** - Time series forecasting
-- **Streamlit** - Interactive web interface
-- **Plotly** - Interactive visualizations
-- **Pandas** - Data manipulation
-
----
 
 ## Project Structure
 
