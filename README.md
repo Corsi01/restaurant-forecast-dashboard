@@ -1,30 +1,30 @@
-# 🍽️ Restaurant Forecasting Dashboard
+# Restaurant Forecasting Dashboard
 
-Interactive dashboard for restaurant sales and bills forecasting using Prophet models.
+Interactive dashboard for restaurant total sales and number of bills forecasting using Prophet models.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://restaurant-forecast-dashboard.streamlit.app/)
 
 ---
 
-## 📊 Overview
+## Overview
 
 Prophet models for **6 restaurants** and **2 dimensions** (bills and total sales) were fitted using **temporal cross-validation** and **grid search** to test different configurations of seasonalities, holidays, regressors, and solutions to handle COVID-19 influence.
 
 The models were deployed in an **interactive Streamlit dashboard** that allows users to:
 
-- 📈 **Generate predictions** using fitted models
-- 🔄 **Update models** with new data
-- 📉 **Compare predicted vs real values**
-- 🔍 **Analyze components** (trend, holidays effect, seasonalities)
+- **Generate predictions** using fitted models
+- **Update models** with new data
+- **Compare predicted vs real values**
+- **Analyze components** (trend, holidays effect, seasonalities)
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 **View the deployed dashboard:** https://restaurant-forecast-dashboard.streamlit.app/
 ---
 
-## 💻 Run Locally
+## Run Locally
 
 Clone the repository and run:
 
@@ -39,7 +39,7 @@ The dashboard will open automatically at `http://localhost:8501`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Prophet** - Time series forecasting
 - **Streamlit** - Interactive web interface
@@ -48,7 +48,7 @@ The dashboard will open automatically at `http://localhost:8501`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 restaurant-forecast-dashboard/
