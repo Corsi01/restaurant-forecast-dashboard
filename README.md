@@ -48,7 +48,7 @@ restaurant-forecast-dashboard/
     ├── prophet_model_*.json
     └── *_metadata.json
 └── data/ .....                   # Contains the original project data, the pre-processed version that can be used to interact with the dashboard,
-                                    and files containing information on COVID-19 produced using GPT5 Deep Search modality chat.
+                                    and files containing information on COVID-19 produced using GPT5 Deep Search modality.
 ```
 
 ---
