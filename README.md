@@ -21,7 +21,7 @@ The models were deployed in an **interactive Streamlit dashboard** that allows u
 
 ## 🚀 Live Demo
 
-**View the deployed dashboard:** [https://restaurant-forecast-dashboard.streamlit.app/]
+**View the deployed dashboard:** https://restaurant-forecast-dashboard.streamlit.app/
 ---
 
 ## 💻 Run Locally
@@ -58,6 +58,8 @@ restaurant-forecast-dashboard/
 └── models/                       # Pre-trained models (24 files)
     ├── prophet_model_*.json
     └── *_metadata.json
+└── data/ .....                   # Contains the original project data, the pre-processed version that can be used to interact with the dashboard,
+                                    and files containing information on COVID-19 produced using GPT5 Deep Search modality chat.
 ```
 
 ---
@@ -75,5 +77,3 @@ Where:
 - `scontrini` - Number of bills
 - `totale` - Total sales
 ---
-
-
