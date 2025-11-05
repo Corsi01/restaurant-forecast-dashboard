@@ -2,7 +2,7 @@
 
 Interactive dashboard for restaurant sales and bills forecasting using Prophet models.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](INSERISCI_QUI_IL_TUO_LINK)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://restaurant-forecast-dashboard.streamlit.app/)
 
 ---
 
@@ -21,8 +21,7 @@ The models were deployed in an **interactive Streamlit dashboard** that allows u
 
 ## 🚀 Live Demo
 
-**View the deployed dashboard:** [INSERISCI_QUI_IL_TUO_LINK](INSERISCI_QUI_IL_TUO_LINK)
-
+**View the deployed dashboard:** [https://restaurant-forecast-dashboard.streamlit.app/]
 ---
 
 ## 💻 Run Locally
@@ -30,7 +29,7 @@ The models were deployed in an **interactive Streamlit dashboard** that allows u
 Clone the repository and run:
 
 ```bash
-git clone https://github.com/TUO_USERNAME/restaurant-forecast-dashboard.git
+git clone https://github.com/Corsi01/restaurant-forecast-dashboard.git
 cd restaurant-forecast-dashboard
 pip install -r requirements.txt
 streamlit run prophet_dashboard.py
@@ -63,8 +62,6 @@ restaurant-forecast-dashboard/
 
 ---
 
-## 📊 Data Format
-
 CSV files must include:
 
 ```csv
@@ -77,14 +74,6 @@ Where:
 - `data` - Date (YYYY-MM-DD)
 - `scontrini` - Number of bills
 - `totale` - Total sales
-
 ---
 
-## 👨‍💻 Author
-
-Created for Data Science project - [TUO NOME]
-
----
-
-⭐ **Star this repo if you find it useful!** ⭐
 
