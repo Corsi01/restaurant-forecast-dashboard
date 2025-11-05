@@ -1,0 +1,12 @@
+[server]
+maxUploadSize = 200
+enableXsrfProtection = false
+enableCORS = false
+headless = true
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+fastReruns = false
