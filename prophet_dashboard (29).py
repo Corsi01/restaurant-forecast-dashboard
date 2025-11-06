@@ -634,7 +634,7 @@ with tab2:
                 st.session_state.retrain_days = 30
             
             with col6:
-                st.info(f"📅 Horizon: **{st.session_state.retrain_days} days**")
+                st.info(f"Horizon: **{st.session_state.retrain_days} days**")
             
             # Load current metadata for retraining
             metadata_path = f"models/{model_key}_metadata.json"
@@ -723,7 +723,7 @@ with tab2:
                         from prophet.serialize import model_to_json
                         model_json_str = model_to_json(new_model)
                         st.download_button(
-                            label="💾 Download Retrained Model (JSON)",
+                            label="Download Retrained Model (JSON)",
                             data=model_json_str,
                             file_name=f"prophet_model_{model_key}_retrained.json",
                             mime="application/json"
@@ -742,7 +742,7 @@ with tab2:
                         st.error(f"Error retraining model: {str(e)}")
         
         except Exception as e:
-            st.error(f"❌ Error preprocessing data: {str(e)}")
+            st.error(f"Error preprocessing data: {str(e)}")
             st.info("Make sure your CSV has 'data' column and either 'Totale' or 'Scontrini' column")
 
 # TAB 3: Compare forecast vs actual
@@ -780,7 +780,7 @@ with tab3:
             st.session_state.compare_days = 30
         
         with col6:
-            st.info(f"📅 Horizon: **{st.session_state.compare_days} days**")
+            st.info(f"Horizon: **{st.session_state.compare_days} days**")
         
         uploaded_actual = st.file_uploader(f"Upload actual data (CSV with 'data' and '{selected_metric}' columns)", 
                                           type="csv", key="actual_upload")
