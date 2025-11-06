@@ -11,14 +11,15 @@ import io
 st.set_page_config(page_title="Restaurant Forecast Dashboard", layout="wide", initial_sidebar_state="collapsed")
 
 # Title
-st.title("🍽️ Restaurant Forecasting Dashboard")
+st.title("Forecasting Dashboard")
 
 # HORIZONTAL LAYOUT - Selection controls at the top
 selection_col1, selection_col2, selection_col3 = st.columns([1, 1, 2])
 
 with selection_col1:
     # Restaurant selection
-    restaurants = [f"Restaurant_{i+1}" for i in range(6)]
+    #restaurants = [f"Restaurant_{i+1}" for i in range(6)]
+    restaurants = [f"Restaurant {i+1}" for i in range(6)]
     selected_restaurant = st.selectbox(
         "Restaurant:",
         restaurants,
@@ -27,7 +28,8 @@ with selection_col1:
 
 with selection_col2:
     # Metric selection
-    metric_options = ["Scontrini", "Totale"]
+    #metric_options = ["Scontrini", "Totale"]
+    metric_options = ["Number of Bills", "Total Sales"]
     selected_metric = st.selectbox(
         "Metric:",
         metric_options,
@@ -35,7 +37,8 @@ with selection_col2:
     )
 
 # Create model key based on selections
-metric_lower = selected_metric.lower()  # 'scontrini' or 'totale'
+#metric_lower = selected_metric.lower()  # 'scontrini' or 'totale'
+metric_lower = ['scontrini' if selected_metric == 'Number of Bills' else 'totale']
 restaurant_num = selected_restaurant.split('_')[1]  # Extract number
 model_key = f"{metric_lower}_restaurant_{restaurant_num}"
 
@@ -303,12 +306,7 @@ def plot_seasonalities(forecast, metadata, selected_metric):
 
 # Function to preprocess uploaded CSV
 def preprocess_csv(df, selected_metric):
-    """
-    Preprocess uploaded CSV:
-    - Rename 'data' column to 'ds'
-    - Rename metric column (Totale/totale or Scontrini/scontrini) to 'y'
-    - Convert ds to datetime
-    """
+    
     df_processed = df.copy()
     
     # Rename 'data' to 'ds' (handle both 'data' and 'scontrino_data')
@@ -523,7 +521,7 @@ def plot_forecast(model, forecast, actual_data=None, title="Forecast", show_last
     return fig
 
 # Main content area with tabs
-tab1, tab2, tab3, tab4 = st.tabs(["📊 Current Forecast", "🔮 Retrain & Forecast", "📈 Compare Forecast vs Actual", "🔍 Components Analysis"])
+tab1, tab2, tab3, tab4 = st.tabs(["Current Forecast", "Retrain & Forecast", "Compare Forecast vs Actual", "Components Analysis"])
 
 # TAB 1: Forecast with existing model
 with tab1:
@@ -563,9 +561,9 @@ with tab1:
             st.session_state.forecast_days = 30
         
         with col6:
-            st.info(f"📅 Horizon: **{st.session_state.forecast_days} days**")
+            st.info(f"Horizon: **{st.session_state.forecast_days} days**")
         
-        if st.button("📊 Generate Forecast", key="forecast_btn", type="primary"):
+        if st.button("Generate Forecast", key="forecast_btn", type="primary"):
             with st.spinner("Generating forecast..."):
                 forecast = make_forecast(model, metadata, st.session_state.forecast_days)
                 
@@ -605,7 +603,7 @@ with tab2:
         try:
             new_data = preprocess_csv(raw_data, selected_metric)
             
-            st.success(f"✅ Data uploaded successfully! {len(new_data)} rows loaded.")
+            st.success(f"Data uploaded successfully! {len(new_data)} rows loaded.")
             
             # Show data preview
             st.subheader("Data Preview")
@@ -643,7 +641,7 @@ with tab2:
                 with open(metadata_path, 'r') as f:
                     metadata = json.load(f)
             except:
-                st.warning("⚠️ Could not load metadata. Using default settings.")
+                st.warning("Could not load metadata. Using default settings.")
                 metadata = {'weekly': False, 'monthly': False, 'yearly': True, 
                            'weekly_prepost': False, 'holidays': False, 'regressors': None}
             
@@ -655,7 +653,7 @@ with tab2:
                         first_new_date = new_data['ds'].min()
                         
                         if first_new_date <= last_train_date:
-                            st.warning(f"⚠️ Your new data overlaps with existing training data (model trained until {last_train_date.date()})")
+                            st.warning(f"Your new data overlaps with existing training data (model trained until {last_train_date.date()})")
                             st.info("The model will be retrained with ALL the new data. Overlapping dates will use the new values.")
                         
                         # Initialize new model with settings from metadata
@@ -707,7 +705,7 @@ with tab2:
                         
                         new_forecast = new_model.predict(future)
                         
-                        st.success("✅ Model retrained successfully!")
+                        st.success("Model retrained successfully!")
                         
                         # Plot new forecast
                         fig = plot_forecast(new_model, new_forecast,
@@ -733,7 +731,7 @@ with tab2:
                         # Download new forecast
                         csv = new_forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].to_csv(index=False)
                         st.download_button(
-                            label="📥 Download New Forecast as CSV",
+                            label="Download New Forecast as CSV",
                             data=csv,
                             file_name=f"{model_key}_new_forecast.csv",
                             mime="text/csv"
@@ -792,7 +790,7 @@ with tab3:
             try:
                 actual_data = preprocess_csv(raw_actual, selected_metric)
                 
-                st.success(f"✅ Actual data uploaded! {len(actual_data)} rows loaded.")
+                st.success(f"Actual data uploaded! {len(actual_data)} rows loaded.")
                 
                 if st.button("Generate Comparison", key="compare_btn"):
                     with st.spinner("Generating comparison..."):
@@ -836,10 +834,10 @@ with tab3:
                                 mime="text/csv"
                             )
                         else:
-                            st.warning("⚠️ No overlapping dates between forecast and actual data.")
+                            st.warning("No overlapping dates between forecast and actual data.")
             
             except Exception as e:
-                st.error(f"❌ Error preprocessing data: {str(e)}")
+                st.error(f"Error preprocessing data: {str(e)}")
                 st.info(f"Make sure your CSV has 'data' column and '{selected_metric}' column")
 
 
