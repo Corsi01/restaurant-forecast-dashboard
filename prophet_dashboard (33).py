@@ -830,7 +830,7 @@ with tab2:
 with tab3:
     st.header("Compare Last Forecast vs Actual Data")
     
-    st.info(f"Upload actual data (CSV with 'data' and '{selected_metric}' columns) to compare with forecast")
+    st.info(f"Upload actual data (CSV with 'data' and '{metric_lower}' columns) to compare with forecast")
     
     # Load model and metadata
     model_path = f"models/prophet_model_{model_key}.json"
