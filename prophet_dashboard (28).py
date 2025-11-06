@@ -39,7 +39,8 @@ with selection_col2:
 # Create model key based on selections
 #metric_lower = selected_metric.lower()  # 'scontrini' or 'totale'
 metric_lower = ['scontrini' if selected_metric == 'Number of Bills' else 'totale']
-restaurant_num = selected_restaurant.split('_')[1]  # Extract number
+#restaurant_num = selected_restaurant.split('_')[1]  # Extract number
+restaurant_num = selected_restaurant.split(' ')[1]  # Extract number
 model_key = f"{metric_lower}_restaurant_{restaurant_num}"
 
 st.markdown("---")  # Horizontal separator
