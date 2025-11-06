@@ -579,7 +579,7 @@ with tab1:
             st.session_state.forecast_days = 30
         
         with col6:
-            st.info(f"Horizon: **{st.session_state.forecast_days} days**")
+            st.info(f"📅 Horizon: **{st.session_state.forecast_days} days**")
         
         # History period selector (before Generate button)
         if 'history_period_tab1' not in st.session_state:
