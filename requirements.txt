@@ -1,6 +1,6 @@
-prophet==1.1.5
-holidays==0.41
-pandas<2.2.0
-numpy<2.0.0
-streamlit
-plotly
+prophet==1.1.7
+holidays==0.82
+pandas==2.2.3
+numpy==1.26.4
+streamlit==1.52.2
+plotly==6.5.0
