@@ -60,11 +60,7 @@ restaurant-forecast-dashboard/
     ├── preprocessed/             # Cleaned data (post Sep 1, 2018)
     │   ├── Ristorante_1.csv
     │   ├── Ristorante_2.csv
-    │   └── ...                   # Individual restaurant files
-    ├── holdout/                  # Last 60 days (test set for validation)
-    │   ├── Ristorante_1_holdout.csv
-    │   ├── Ristorante_2_holdout.csv
-    │   └── ...                   # 6 CSV files for testing dashboard features
+    │   └── ...                   # Individual restaurant files   -->  # 6 CSV files for testing dashboard features
     └── covid/                    # COVID-19 lockdown timelines
         ├── lombardia_lockdowns.csv
         └── emilia_romagna_lockdowns.csv
