@@ -97,6 +97,7 @@ def plot_trend_holidays(model, metadata, selected_metric):
     # Use model.history directly - Prophet will handle holidays automatically
     # DON'T add regressors here - they would interfere with holiday calculation
     historical_forecast = model.predict(model.history)
+    st.write(f"**DEBUG:** Holidays sum = {historical_forecast['holidays'].sum():.2f}")
     
     fig = go.Figure()
     
