@@ -66,3 +66,5 @@ Where:
 - `scontrini` - Number of bills
 - `totale` - Total sales
 ---
+
+There are 6 csv with the last two months (hold-out set) available to try dashboard functionalities like model update or prediction vs real values comparison
