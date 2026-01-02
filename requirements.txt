@@ -1,5 +1,6 @@
-streamlit==1.28.0
+streamlit==1.52.2
 prophet==1.1.7
+holidays==0.82
 pandas==2.0.3
 plotly==5.17.0
 cmdstanpy==1.2.0
